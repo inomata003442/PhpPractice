@@ -1,4 +1,5 @@
 <?php
+//D002　数の比較
     $a = trim(fgets(STDIN));
     $b = explode(' ',$a);
 
