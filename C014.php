@@ -1,5 +1,5 @@
 <?php
-//C14 ボールが入る箱
+//C014 ボールが入る箱
 $input_lines = trim(fgets(STDIN));
 $nr = explode(' ', $input_lines);
 $n = $nr[0];

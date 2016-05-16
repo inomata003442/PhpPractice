@@ -1,5 +1,5 @@
 <?php
-//C30 白にするか黒にするか
+//C030 白にするか黒にするか
 $input_lines = trim(fgets(STDIN));
 $int = explode(' ', $input_lines);
 $h = $int[0];
