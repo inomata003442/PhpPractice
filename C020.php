@@ -1,5 +1,5 @@
 <?php
-//C20 残り物の量
+//C020 残り物の量
 $input_lines = trim(fgets(STDIN));
 $mpq = explode(' ',$input_lines);
 $m = $mpq[0];

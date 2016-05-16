@@ -1,5 +1,5 @@
 <?php
-//C16 Leet文字列
+//C016 Leet文字列
 $replaceList = array(
     'A'=>'4',
     'E'=>'3',
